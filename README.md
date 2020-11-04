@@ -94,7 +94,7 @@ Penjelasan
 import random
 ```
 
-2. Untuk menentukan jumlah input yang di inginkan sesuai tipe data yaitu tipe data bilangan bulat (integer) yang dimasukan ke variable `jum`
+2. Untuk menentukan jumlah input yang diinginkan dan dikonversi ke dalam bilangan bulat (integer) yang dimasukan ke variable `jum`
 ```python
 jum = int( input("Masukan nilai n : "))
 ```
