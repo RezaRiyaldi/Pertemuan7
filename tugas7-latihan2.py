@@ -7,4 +7,4 @@ i = 0
 for i in range(jum):
     i += 1
     angkaDec = random.uniform(0, 0.5)
-    print(f'Data ke {i} = {angkaDec}')
+    print("Data ke", i, " = ", angkaDec)
