@@ -13,7 +13,7 @@ __Kelas : TI.20.A.2__
     * [Praktikum 1](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan1.py)
         - [Latihan 2](https://github.com/RezaRiyaldi/Pertemuan7#latihan-2) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
-    * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
+    * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%202)
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
         - [Program 1](https://github.com/RezaRiyaldi/Pertemuan7#program-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
 
@@ -62,6 +62,7 @@ Maka program yang di hasil seperti berikut
 
 ![tampil 1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/gambar/tampil%201.PNG)
 
+Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
 
 ### Latihan 2
 
@@ -95,6 +96,8 @@ angkaDec = random.uniform(0, 0.5)
     print("Data ke", i, " = ", angkaDec)
 ```
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
+
+Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
 
 ### Latihan 1
 Konsep program : 
@@ -141,6 +144,7 @@ print ("Bilangan Terbesar Adalah : ", max)
 ```
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
 
+Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
 
 ### Program 1
 
@@ -196,5 +200,7 @@ print(f"Laba pada bulan ke - {bulan}, mendapat laba = {i}")
 print(f"Keuntungan yang didapat selama {bulan} bulan = {sum}")
 ```
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
+
+Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
 
 
