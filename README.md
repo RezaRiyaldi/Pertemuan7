@@ -143,7 +143,7 @@ break
 ```python
 print ("Bilangan Terbesar Adalah : ", max) 
 ```
-Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
+Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
 
 Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
 
