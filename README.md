@@ -11,13 +11,14 @@
 
 ## Daftar Isi
 * ### [Pertemuan 7](https://github.com/RezaRiyaldi/Pertemuan7#pertemuan-7)
-    * [Praktikum 1](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
+    * [Praktikum 1](https://github.com/RezaRiyaldi/Pertemuan7#praktikum-1) | [direktori](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan1.py)
         - [Latihan 2](https://github.com/RezaRiyaldi/Pertemuan7#latihan-2) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
-    * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%202)
+    * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7#praktikum-2) | [direktori](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%202)
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
         - [Program 1](https://github.com/RezaRiyaldi/Pertemuan7#program-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
 
+## Praktikum 1
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
 
@@ -99,6 +100,8 @@ angkaDec = random.uniform(0, 0.5)
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
 
 Kembali ke [Daftar isi](https://github.com/RezaRiyaldi/Pertemuan7#daftar-isi)
+
+## Praktikum 2
 
 ### Latihan 1
 Konsep program : 
