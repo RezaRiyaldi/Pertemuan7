@@ -14,8 +14,8 @@ __Kelas : TI.20.A.2__
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan1.py)
         - [Latihan 2](https://github.com/RezaRiyaldi/Pertemuan7#latihan-2) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
     * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
-        - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
-        - [Program 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
+        - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
+        - [Program 1](https://github.com/RezaRiyaldi/Pertemuan7#program-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
 
 ### Latihan 1 
 * Saya diberikan tugas untuk membuat program perulangan bersarang/bertingkat (nested for) yang menghasilkan output berikut
@@ -96,7 +96,7 @@ angkaDec = random.uniform(0, 0.5)
 ```
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
 
-### Latihan1
+### Latihan 1
 Konsep program : 
 1. Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan.
 2. Ketika memasukan angka 0 program akan berhenti.
@@ -142,7 +142,7 @@ print ("Bilangan Terbesar Adalah : ", max)
 Program yang saya buat bisa dilihat di [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
 
 
-### Program1
+### Program 1
 
 Konsep program : 
 1. Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
