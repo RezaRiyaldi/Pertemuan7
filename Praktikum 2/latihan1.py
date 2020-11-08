@@ -1,11 +1,12 @@
-import random
-print(43*"=")
-print("= Bilangan acak yang lebih kecil dari 0,5 =")
-print(43*"=")
-jum = int( input("Masukan nilai: "))
-i = 0
-for i in range(jum):
-    i += 1
-    angkaDec = random.uniform(0,0.5)
-    print("Data ke :", i, "=>", angkaDec)
-print("Selesai")
+print(40*"=")
+print(5*"=","Menentukan bilangan terbesar", 5*"=")
+print(40*"=")
+max = 0
+while True:
+    a = int(input("Masukan bilangan : "))
+    if max < a:
+        max = a
+    if a==0:
+        break
+
+print("bilangan terbesar adalah", max)
