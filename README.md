@@ -1,6 +1,5 @@
 # Pertemuan 7
 ## Kondisi dan Perulangan
-***
 
 ## Profil
 __Nama : Reza Riyaldi Irawan__
