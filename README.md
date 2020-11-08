@@ -14,7 +14,7 @@ __Kelas : TI.20.A.2__
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan1.py)
         - [Latihan 2](https://github.com/RezaRiyaldi/Pertemuan7#latihan-2) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
     * [Praktikum 2](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
-        - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
+        - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/latihan1.py)
         - [Program 1](https://github.com/RezaRiyaldi/Pertemuan7#program-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/program1.py)
 
 ### Latihan 1 
