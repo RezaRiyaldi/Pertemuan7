@@ -65,16 +65,6 @@ Maka program yang di hasil seperti berikut
 
 ### Latihan 2
 
-* Saya diberikan tugas untuk membuat program :
-     * Tampilkan n bilangan acak yang lebih kecil dari 0.5
-     * Nilai n diisi pada saat runtime
-     
-Seperti pada gambar berikut
-
-![output 2](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/gambar/tugas%202.PNG)
-
-Maka 
-
 Konsep program :
 1. Menampilkan n bilangan acak yang lebih kecil dari 0.5.
 2. nilai n diisi pada saat runtime
@@ -163,6 +153,7 @@ keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 
 bulan berjalan usahanya.
 
 Program Program Sederhana Menghitung Total Keuntungan Selama 8 Bulan
+
 ![latihan1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/gambar/program1.png)
 
 Penjelasan program
