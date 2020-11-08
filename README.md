@@ -7,7 +7,7 @@
 | **Nama** | Reza Riyaldi Irawan |
 | **NIM** | 312010284 |
 | **Kelas** | TI.20.A.2 |
-| **Mata Kuliah** | Bahasa Pemograman |
+| **Mata Kuliah** | Bahasa Pemrograman |
 
 ## Daftar Isi
 * ### [Pertemuan 7](https://github.com/RezaRiyaldi/Pertemuan7#pertemuan-7)
