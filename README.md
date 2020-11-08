@@ -10,7 +10,7 @@
 | **Mata Kuliah** | Bahasa Pemrograman |
 
 ## Daftar Isi
-* ### [Pertemuan 7](https://github.com/RezaRiyaldi/Pertemuan7#pertemuan-7)
+* [Pertemuan 7](https://github.com/RezaRiyaldi/Pertemuan7#pertemuan-7)
     * [Praktikum 1](https://github.com/RezaRiyaldi/Pertemuan7#praktikum-1) | [direktori](https://github.com/RezaRiyaldi/Pertemuan7/tree/master/Praktikum%201)
         - [Latihan 1](https://github.com/RezaRiyaldi/Pertemuan7#latihan-1) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan1.py)
         - [Latihan 2](https://github.com/RezaRiyaldi/Pertemuan7#latihan-2) | [Source Code](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%201/Latihan2.py)
