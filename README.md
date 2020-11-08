@@ -2,11 +2,12 @@
 ## Kondisi dan Perulangan
 
 ## Profil
-__Nama : Reza Riyaldi Irawan__
-
-__NIM : 312010284__
-
-__Kelas : TI.20.A.2__
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Reza Riyaldi Irawan |
+| **NIM** | 312010284 |
+| **Kelas** | TI.20.A.2 |
+| **Mata Kuliah** | Bahasa Pemograman |
 
 ## Daftar Isi
 * ### [Pertemuan 7](https://github.com/RezaRiyaldi/Pertemuan7#pertemuan-7)
