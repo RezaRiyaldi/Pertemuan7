@@ -73,7 +73,7 @@ Konsep program :
 2. nilai n diisi pada saat runtime
 
 Program Menampilkan n Bilangan Acak Yang Lebih Kecil Dari 0.5
-![latihan1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/gambar/latihan2.png)
+![latihan1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/gambar/latihan1.png)
 
 Penjelasan
 
@@ -110,7 +110,7 @@ Konsep program :
 
 Program Sederhana Untuk Menampilkan bilangan Terbesar dari n buah data yang dimasukkan
 
-![latihan1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/gambar/latihan1.png)
+![latihan1](https://github.com/RezaRiyaldi/Pertemuan7/blob/master/Praktikum%202/gambar/latihan2.png)
 
 Penjelasan program
 
